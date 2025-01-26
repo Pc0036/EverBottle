@@ -1,0 +1,6 @@
+@import 'https://cdn.jsdelivr.net/npm/tailwindcss@3.3.2/dist/tailwind.min.css';
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
